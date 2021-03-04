@@ -1,3 +1,6 @@
  
 dato 1
 DATO2
+
+
+GRANT ALL ON *.* TO 'admin'@'localhost' IDENTIFIED BY 'charly1709' WITH GRANT OPTION;
